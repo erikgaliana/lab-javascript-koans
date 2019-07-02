@@ -6,6 +6,7 @@
 
 ![](https://i.imgur.com/9Ug9NBn.png)
 
+
 ```
 Two monks were arguing on top of a hill about a big
 flag in the top of a temple. One monk reflected: 
